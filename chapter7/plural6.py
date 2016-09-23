@@ -1,4 +1,5 @@
 class LazyRules:
+ #   rules_filename = 'E:\\books_and_materials\\Programming_Languages\\python\\dive-into-python-3-source-code\\chapter7\\plural6_rules.txt'
     rules_filename = 'plural6_rules.txt'
 
     def __init__(self):
